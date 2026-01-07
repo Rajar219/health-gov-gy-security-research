@@ -2,7 +2,7 @@
 
 > **Disclaimer:** This research was conducted ethically for educational purposes and reported responsibly to relevant authorities. All testing was performed within legal boundaries without causing harm or disruption to services.
 
-## 🎯 Executive Summary
+## Executive Summary
 
 Discovered multiple security vulnerabilities in Guyana Ministry of Health website (health.gov.gy) through responsible security research. The findings include critical security misconfigurations that could potentially expose sensitive information and compromise user security.
 
@@ -119,7 +119,7 @@ Server misconfiguration allows directory listing, exposing the complete file str
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 ### Immediate Actions (High Priority):
 
